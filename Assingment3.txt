@@ -1,0 +1,8 @@
+git config --list
+git init
+git config --global user.name"<name>",git config --global user.email"<email>"
+git add <filename> or git add .
+git restore
+git commit -m "massage".
+git push
+clone are the copy that data are clone to the github.and pull is only that data are the copy the push by the another developer next time the developer  take only the updated data not all the data.

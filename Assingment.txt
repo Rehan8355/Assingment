@@ -1,0 +1,8 @@
+1)A computer is a device that accepts information (in the form of digitalized data) and manipulates it for some result based on a program, software, or sequence of instructions on how the data is to be processed.
+2)Random Access memory it is a primary memory.
+Data store in a computer in secondary memory. 
+keyboard.
+Examples include monitors, printers, speakers, headphones, projectors, GPS devices, optical mark readers, and braille readers.
+mouse.
+binary language.
+mouse,keyboard etc

@@ -1,0 +1,8 @@
+git is a distributed version control system. they have a local repository in a git.
+version controal system are define the change they change by the different different developer they show all the details of the changes.
+the git push the code in the github these code are used every developer the link to that repsitory.
+Bitbucket,GitLab.
+there are two type of version control system 1.central version control system 2.destributed version control system.
+git is useful for the data saver they can't loss the data during the system crash.
+git repository is a local repository the can put the data before the github.
+by  using a commond git init 
