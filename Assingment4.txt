@@ -1,0 +1,10 @@
+set of instructions that instruct a computer hoe to carry out a task is the process of programming.
+programming language is important in our daily life to enhance and increase the power of computers, mobile solutions and the internet.
+ There are mainy features in java such that Object-orinted,platform independent,Simple,secure,portable,Robust,Multi-threaded,Distributed.
+ Object is a instance of class they are real world of run time entity.
+ Class is a description of the object.
+ 
+ 
+ Public static void main(String args[])
+ 
+ 
